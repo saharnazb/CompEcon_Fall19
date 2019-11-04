@@ -1,0 +1,7 @@
+git checkout -b exercise
+git status
+git add ClassExercise
+git commit -m "ClassExercise"
+git push origin exercise
+
+https://github.com/saharnazb/CompEcon_Fall19/pull/new/exercise
